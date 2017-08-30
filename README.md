@@ -9,6 +9,22 @@
 - 논문 발표(내용 알려줘..) : 정재윤
 ```
 
+### 서브모듈 로드
+```bash
+cd KUPYPY
+git submodule init
+git submodule update
+```
+
+### 서브모듈에서 업로드
+```bash
+cd SUBMODULE_NAME
+git checkout master
+git add .
+git commit -m "upload from submodule"
+git push origin master
+```
+
 ### 양식 지정
 ```
 http://nbviewer.jupyter.org/github/kupypy/past/blob/master/HML/Chp11/%28HML%29Chp11_Training%20Deep%20Neural%20Nets.ipynb
