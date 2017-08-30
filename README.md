@@ -25,12 +25,10 @@ git commit -m "upload from submodule"
 git push origin master
 ```
 
-### 양식 지정
+### 양식
+> [예시](http://nbviewer.jupyter.org/github/kupypy/past/blob/master/HML/Chp11/%28HML%29Chp11_Training%20Deep%20Neural%20Nets.ipynb)
+
 ```
-http://nbviewer.jupyter.org/github/kupypy/past/blob/master/HML/Chp11/%28HML%29Chp11_Training%20Deep%20Neural%20Nets.ipynb
-
-를 예시로 ..
-
 시작은
 
 # ChpXX. 챕터명
