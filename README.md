@@ -10,15 +10,15 @@
 ```
 
 ### 서브모듈 로드
+###### KUPYPY
 ```bash
-cd KUPYPY
 git submodule init
 git submodule update
 ```
 
 ### 서브모듈에서 업로드
+###### KUPYPY/SUBMODULE-NAME
 ```bash
-cd SUBMODULE_NAME
 git checkout master
 git add .
 git commit -m "upload from submodule"
