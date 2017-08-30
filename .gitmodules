@@ -1,0 +1,12 @@
+[submodule "IP"]
+	path = IP
+	url = https://github.com/KUpypy/IP.git
+[submodule "TB"]
+	path = TB
+	url = https://github.com/KUpypy/TB.git
+[submodule "HML"]
+	path = HML
+	url = https://github.com/KUpypy/HML.git
+[submodule "Paper"]
+	path = Paper
+	url = https://github.com/KUpypy/Paper.git
