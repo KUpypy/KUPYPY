@@ -13,6 +13,7 @@
 ###### KUPYPY
 ```bash
 git clone https://github.com/KUpypy/KUPYPY
+cd KUPYPY
 git submodule init
 git submodule update
 ```
