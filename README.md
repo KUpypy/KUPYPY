@@ -12,6 +12,8 @@
 ### 서브모듈 로드
 ###### KUPYPY
 ```bash
+git clone https://github.com/KUpypy/KUPYPY
+cd KUPYPY
 git submodule init
 git submodule update
 ```
