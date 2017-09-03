@@ -1,6 +1,17 @@
 # KUPYPY
 
-### 이번 주 9.2(토) 발표
+### 이번 주 9.7(토) 발표
+```
+- Think Bayes Chp7 : 이아름
+- Think Bayes Chp8 : 이우진
+- HML Chp15 : 송서하, 임진주
+- IP Chp10 : 최시현
+- IP Chp11 : 강은진
+- 논문 발표(내용 알려줘..) : 정재윤
+- (HML Chp14 : 송서하, 이우진[지난 주 못한 발표])
+```
+
+### 9.2(토) 발표
 ```
 - Think Bayes Chp5 : 강은진
 - Think Bayes Chp6 : 임진주
